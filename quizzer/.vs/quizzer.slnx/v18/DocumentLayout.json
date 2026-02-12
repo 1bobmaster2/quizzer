@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|c:\\users\\jakup\\desktop\\github\\quizzer\\quizzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|c:\\users\\jakup\\desktop\\github\\quizzer\\quizzer\\quizzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|solutionrelative:quizzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|c:\\users\\jakup\\desktop\\github\\quizzer\\quizzer\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|c:\\users\\jakup\\desktop\\github\\quizzer\\quizzer\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E4F0112-955F-4425-8177-8FDE7D604E6E}|quizzer.csproj|solutionrelative:quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Quizzer.cs",
+              "DocumentMoniker": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Quizzer.cs",
+              "RelativeDocumentMoniker": "Quizzer.cs",
+              "ToolTip": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Quizzer.cs",
+              "RelativeToolTip": "Quizzer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:11:41.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Quiz.cs",
+              "RelativeDocumentMoniker": "Quiz.cs",
+              "ToolTip": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Quiz.cs",
+              "RelativeToolTip": "Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:11:21.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:10:08.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jakup\\Desktop\\github\\quizzer\\quizzer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T12:09:26.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

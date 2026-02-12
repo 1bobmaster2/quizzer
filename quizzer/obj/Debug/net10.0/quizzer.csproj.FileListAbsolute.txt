@@ -1,0 +1,15 @@
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\bin\Debug\net10.0\quizzer.exe
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\bin\Debug\net10.0\quizzer.deps.json
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\bin\Debug\net10.0\quizzer.runtimeconfig.json
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\bin\Debug\net10.0\quizzer.dll
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\bin\Debug\net10.0\quizzer.pdb
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.AssemblyInfoInputs.cache
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.AssemblyInfo.cs
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.csproj.CoreCompileInputs.cache
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.sourcelink.json
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.dll
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\refint\quizzer.dll
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.pdb
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\quizzer.genruntimeconfig.cache
+C:\Users\Jakup\Desktop\github\quizzer\quizzer\obj\Debug\net10.0\ref\quizzer.dll
